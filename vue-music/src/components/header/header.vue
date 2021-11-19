@@ -18,6 +18,8 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+@import "@/assets/scss/mixin.scss";
+@import "@/assets/scss/variable.scss";
 .header{
     height: 44px;
     text-align: center;
